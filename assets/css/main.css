@@ -185,7 +185,7 @@ html {
 }
 
 body {
-	background: #0e0e0e;
+	background: #2f2f2f;
 }
 
 body.is-preload *,
@@ -3393,11 +3393,11 @@ table.alt tfoot {
 }
 
 .wrapper.style1-alt {
-	background-color: #202020;
+	background-color: #2F2F2F;
 }
 
 .wrapper.style2 {
-	background-color: #2F2F2F;
+	background-color: #12F2F2F;
 }
 
 .wrapper.style2-alt {
